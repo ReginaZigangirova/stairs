@@ -1,0 +1,24 @@
+.footer__button {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    padding: 15px 51px 14px 51px;
+    text-transform: uppercase;
+    color: #010F29;
+    background: linear-gradient(143.05deg, #FCA82D 20.13%, #EFC449 85.02%);
+    box-shadow: 0px 11px 20px rgba(2, 2, 2, 0.261637);
+    backdrop-filter: blur(13.5914px);
+    border-radius: 30.5px;
+    margin-top: 30px;
+    border: none;
+    margin-left: 261px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 710px) {
+    .footer__button {
+        padding: 14px 120px 15px 125px;
+        margin: 28px 0 0;
+    }
+}

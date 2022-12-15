@@ -1,0 +1,25 @@
+.popup__container {
+    background-color: #010F29;
+    max-width: 1400px;
+    text-align: center;
+    position: relative;
+    padding: 200px 250px 150px 251px;
+}
+
+@media screen and (max-width: 1024px) {
+    .popup__container {
+        padding: 100px 150px 150px 151px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .popup__container {
+        padding: 100px 50px 150px 50px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .popup__container {
+        padding: 100px 25px 200px 25px;
+    }
+}

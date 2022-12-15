@@ -1,0 +1,20 @@
+.partners__cards{
+    margin-top: 49px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 140px);
+    grid-row-gap: 30px;
+    grid-column-gap: 20px;
+}
+
+@media screen and (max-width: 1360px) {
+    .partners__cards {
+        grid-column-gap: 11px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .partners__cards {
+        grid-row-gap: 35px;
+        grid-column-gap: 41px;
+    }
+}

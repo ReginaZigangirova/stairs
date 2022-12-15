@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("./Akrobat-Regular.otf") format("otf");
+}
+
+@font-face {
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("./Akrobat-Bold.otf") format("otf");
+}
+
+@font-face {
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("./Akrobat-SemiBold.otf") format("otf");
+}
+
+@font-face {
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url("./Akrobat-ExtraBold.otf") format("otf");
+}

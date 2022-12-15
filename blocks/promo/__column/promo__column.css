@@ -1,0 +1,27 @@
+.promo__column:first-of-type {
+    margin-right: 101px;
+}
+
+.promo__column:last-of-type {
+    margin-right: 175px;
+}
+
+@media screen and (max-width: 1360px) {
+    .promo__column:last-of-type {
+        margin-right: 13px;
+}
+.promo__column:first-of-type {
+    margin-right: 30px;
+}
+}
+
+@media screen and (max-width: 710px) {
+    .promo__column:first-of-type {
+        margin: 0;
+        width: 380px;
+    }
+    .promo__column:last-of-type {
+        margin: 0;
+        width: 380px;
+    }
+}

@@ -1,0 +1,22 @@
+.creative__title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 60px;
+    margin: 0;
+    text-align: right;
+    text-transform: uppercase;
+    background: linear-gradient(143.05deg, #EAA853 20.13%, #984860 85.02%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    max-width: 341px;
+    padding-right: 112px;
+}
+
+@media screen and (max-width: 900px) {
+    .creative__title {
+        text-align: left;
+        padding: 0;
+    }
+}

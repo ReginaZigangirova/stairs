@@ -1,0 +1,12 @@
+.promo__row {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+@media screen and (max-width: 710px) {
+    .promo__row {
+        width: 346px;
+    }
+}
+

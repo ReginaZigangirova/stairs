@@ -1,0 +1,21 @@
+.promo {
+    padding: 148px 201px 0 198px;
+}
+
+@media screen and (max-width: 1360px) {
+    .promo {
+        padding: 148px 100px 0 100px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .promo {
+        padding: 100px 50px 0 50px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .promo {
+        padding: 103px 41px 67px 35px;
+    }
+}

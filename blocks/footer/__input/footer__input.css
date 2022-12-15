@@ -1,0 +1,25 @@
+.footer__input {
+    width: 223px;
+    background: rgba(255, 255, 255, 0.0001);
+    border: 2px solid #EFC247;
+    backdrop-filter: blur(40.7742px);
+    border-radius: 5px;
+    padding: 12px 214px 12px 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 28px 0 0;
+    color: #E9F1FF;
+}
+
+.footer__input:first-of-type {
+    margin: 0;
+}
+
+@media screen and (max-width: 710px) {
+    .footer__input {
+        width: 227px;
+        padding: 10px 95px 14px 23px;
+    }
+}

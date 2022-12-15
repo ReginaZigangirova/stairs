@@ -1,0 +1,11 @@
+.about-us__container {
+    background-image: url(../../../images/molochnyidom.png);
+    padding: 208px 50px 45.5px 51px;
+}
+
+@media screen and (max-width: 710px) {
+    .about-us__container {
+        background-image: url(../../../images/dom.png);
+        padding: 41px 88px 16px 38px;
+    }
+}

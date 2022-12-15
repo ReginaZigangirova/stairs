@@ -1,0 +1,12 @@
+.chart__list {
+    padding: 0;
+    list-style-type: none;
+    margin: 45px 0 0;
+    max-width: 400px;
+}
+
+@media screen and (max-width: 710px) {
+    .chart__list {
+        margin-top: 36px;
+    }
+}

@@ -1,0 +1,21 @@
+.chart {
+    padding: 56px 203px 0 202px;
+}
+
+@media screen and (max-width: 1360px) {
+    .chart {
+        padding: 56px 100px 0 100px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .chart {
+        padding: 56px 50px 0 50px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .chart {
+        padding: 57px 12px 0 13px;
+    }
+}

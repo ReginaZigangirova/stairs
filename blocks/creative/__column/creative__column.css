@@ -1,0 +1,13 @@
+.creative__column {
+    margin-right: 28px;
+}
+
+.creative__column:last-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 900px) {
+    .creative__column:last-child {
+        margin-top: 20px;
+    }
+}

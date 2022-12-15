@@ -1,0 +1,9 @@
+.about-us__button {
+    background-image: url(../../../images/mask.png);
+    height: 60px;
+    width: 60px;
+    border: none;
+    background-color: transparent;
+    background-position: center;
+    background-size: contain;
+}

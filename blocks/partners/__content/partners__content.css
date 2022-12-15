@@ -1,0 +1,12 @@
+.partners__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 26px;
+}
+
+@media screen and (max-width: 710px) {
+    .partners__content {
+        display: block;
+        margin-top: 24px;
+    }
+}

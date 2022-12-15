@@ -1,0 +1,30 @@
+.process__description {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    max-width: 445px;
+    color: #E9F1FF;
+    margin: 54px 0 0 502px;
+}
+
+@media screen and (max-width: 1360px) {
+    .process__description {
+        margin: 0 0 0 376px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .process__description {
+        margin: 20px 0 0;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .process__description {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 349px;
+        padding: 0 38px 0 41px;
+    }
+}

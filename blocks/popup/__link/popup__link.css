@@ -1,0 +1,16 @@
+.popup__link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #E9F1FF;
+    margin: 0;
+    border-bottom: 1px solid #E9F1FF;
+}
+
+@media screen and (max-width: 500px) {
+    .popup__link {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}

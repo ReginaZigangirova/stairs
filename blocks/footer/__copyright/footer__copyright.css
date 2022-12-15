@@ -1,0 +1,21 @@
+.footer__copyright {
+    margin-top: 183px;
+}
+
+@media screen and (max-width: 1360px) {
+    .footer__copyright {
+        margin-top: 160px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .footer__copyright {
+        margin-top: 130px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .footer__copyright {
+        display: none;
+    }
+}

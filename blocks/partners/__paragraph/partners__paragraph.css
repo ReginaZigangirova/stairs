@@ -1,0 +1,16 @@
+.partners__paragraph {
+    display: none;
+}
+
+@media screen and (max-width: 710px) {
+    .partners__paragraph {
+        display: block;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 36px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin: 20px 0 0;
+        text-align: right;
+    }
+}

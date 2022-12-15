@@ -1,0 +1,11 @@
+.about-us__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 710px) {
+    .about-us__row {
+        flex-wrap: wrap-reverse;
+    }
+}

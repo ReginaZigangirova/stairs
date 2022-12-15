@@ -1,0 +1,10 @@
+.footer__content {
+    display: none;
+}
+
+@media screen and (max-width: 710px) {
+    .footer__content {
+        display: block;
+        margin-top: 65px;
+    }
+}

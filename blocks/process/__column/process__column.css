@@ -1,0 +1,11 @@
+@media screen and (max-width: 900px) {
+    .process__column {
+        margin-top: 42px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .process__column {
+        padding: 0 38px 0 41px;
+    }
+}

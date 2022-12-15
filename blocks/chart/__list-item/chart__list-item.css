@@ -1,0 +1,25 @@
+.chart__list-item {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 40px 0 0;
+    color: #E9F1FF;
+}
+
+.chart__list-item:first-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 900px) {
+    .chart__list-item {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .chart__list-item {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}

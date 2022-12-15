@@ -1,0 +1,17 @@
+.coach__container {
+    border: 1px solid #FFFFFF;
+    display: flex;
+    padding: 73px 95px 42px 44px;
+}
+
+@media screen and (max-width: 1360px) {
+    .coach__container {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .coach__container {
+        padding: 26px 19px 30px 27px;
+    }
+}

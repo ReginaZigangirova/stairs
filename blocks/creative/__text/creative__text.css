@@ -1,0 +1,26 @@
+.creative__text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    max-width: 487px;
+    color: #E9F1FF;
+    margin: 40px 0 0;
+}
+
+.creative__text:first-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 1360px) {
+    .creative__text {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .creative__text {
+        font-size: 28px;
+        line-height: 34px;
+    }
+}

@@ -1,0 +1,21 @@
+.move {
+    padding: 210px 251px 0 249px;
+}
+
+@media screen and (max-width: 1360px) {
+    .move {
+        padding: 110px 149px 0 200px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .move {
+        padding: 110px 50px 0 50px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .move {
+        padding: 58px 15px 0 15px;
+    }
+}

@@ -1,0 +1,17 @@
+.promo__content {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 49px 0 50px;
+}
+
+@media screen and (max-width: 900px) {
+    .promo__content {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .promo__content {
+        display: block;
+    }
+}

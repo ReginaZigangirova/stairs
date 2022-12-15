@@ -1,0 +1,15 @@
+.move__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+@media screen and (max-width: 710px) {
+    .move__title {
+        display: none;
+    }
+}

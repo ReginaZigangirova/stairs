@@ -1,0 +1,17 @@
+.coach__text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px; 
+    margin: 0;
+    color: #E9F1FF;
+    max-width: 400px;
+}
+
+@media screen and (max-width: 710px) {
+    .coach__text {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 347px;
+    }
+}

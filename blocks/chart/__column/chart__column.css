@@ -1,0 +1,19 @@
+.chart__column {
+    border: 1px solid #FFFFFF;
+    padding: 49px 66px 32px 47px;
+    width: 518px;
+}
+
+.chart__column:last-child {
+    padding: 49px 71px 32px 41px;
+}
+
+@media screen and (max-width: 710px) {
+    .chart__column {
+        width: 345px;
+        padding: 37px 29px 40px 29px;
+    }
+    .chart__column:last-child {
+        padding: 37px 29px 40px 29px;
+    }
+}

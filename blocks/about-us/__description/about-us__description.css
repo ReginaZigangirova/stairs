@@ -1,0 +1,11 @@
+.about-us__description {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 900px) {
+    .about-us__description {
+        display: block;
+    }
+}

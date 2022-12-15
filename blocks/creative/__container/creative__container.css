@@ -1,0 +1,9 @@
+.creative__container {
+    display: flex;
+}
+
+@media screen and (max-width: 900px) {
+    .creative__container {
+        display: block;
+    }
+}

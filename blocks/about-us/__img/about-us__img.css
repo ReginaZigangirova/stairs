@@ -1,0 +1,22 @@
+.about-us__img {
+    padding-left: 51px;
+    margin-top: 74px;
+}
+
+@media screen and (max-width: 1360px) {
+    .about-us__img {
+        padding-left: 31px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .about-us__img {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .about-us__img {
+        display: none;
+    }
+}

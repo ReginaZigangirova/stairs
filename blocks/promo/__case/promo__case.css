@@ -1,0 +1,10 @@
+.promo__case {
+    display: none;
+}
+
+@media screen and (max-width: 710px) {
+    .promo__case {
+        display: flex;
+        margin-top: 53px;
+    }
+}

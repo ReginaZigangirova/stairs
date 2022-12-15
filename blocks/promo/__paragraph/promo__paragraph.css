@@ -1,0 +1,30 @@
+.promo__paragraph {
+    display: flex;
+    padding: 39px 49px 44px 53px;
+    background-image: url(../../../images/back.png);
+    justify-content: space-between;
+    margin-top: 95px;
+}
+
+@media screen and (max-width: 1360px) {
+    .promo__paragraph {
+        padding: 30px 40px 34px 33px;
+        margin-top: 47px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .promo__paragraph {
+        padding: 20px 30px 24px 23px;
+        margin-top: 116px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .promo__paragraph {
+        display: block;
+        margin-top: 19px;
+        background-image: none;
+        padding: 0;
+    }
+}

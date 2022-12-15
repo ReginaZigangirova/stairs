@@ -1,0 +1,21 @@
+.creative {
+    padding: 95.5px 296px 0 176px;
+}
+
+@media screen and (max-width: 1360px) {
+    .creative {
+        padding: 95.5px 100px 0 100px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .creative {
+        padding: 95.5px 70px 0 70px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .creative {
+        padding: 40px 38px 0 40px;
+    }
+}

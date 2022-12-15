@@ -1,0 +1,14 @@
+.move__container {
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-row-gap: 17px;
+    grid-column-gap: 20px;
+    display: grid;
+}
+
+@media screen and (max-width: 710px) {
+    .move__container {
+        grid-template-columns: repeat(auto-fit, 194px);
+        grid-row-gap: 9px;
+        grid-column-gap: 10px;
+    }
+}

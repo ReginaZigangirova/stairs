@@ -1,0 +1,10 @@
+.footer__form {
+    width: 461px;
+}
+
+@media screen and (max-width: 710px) {
+    .footer__form {
+        margin-top: 41px;
+        width: 345px;
+    }
+}

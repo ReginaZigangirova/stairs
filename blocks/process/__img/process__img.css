@@ -1,0 +1,25 @@
+.process__img {
+    background: linear-gradient(225deg, #32C5FF 0%, #B620E0 51.26%, #F7B500 100%);
+    mix-blend-mode: normal;
+}
+
+@media screen and (max-width: 1360px) {
+    .process__img {
+        width: 500px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .process__img {
+        width: 610px;
+        height: 292px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .process__img {
+        width: 427px;
+        height: 236px;
+    }
+}

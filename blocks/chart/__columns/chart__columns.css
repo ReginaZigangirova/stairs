@@ -1,0 +1,9 @@
+.chart__columns {
+    display: flex;
+}
+
+@media screen and (max-width: 710px) {
+    .chart__columns {
+        display: block;
+    }
+}

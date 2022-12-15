@@ -1,0 +1,13 @@
+.promo__subhead {
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 0;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 710px) {
+    .promo__subhead {
+        line-height: 28px;
+    }
+}

@@ -1,0 +1,5 @@
+@media screen and (max-width: 1360px) {
+    .partners__container:last-child {
+        margin-top: 25px;
+    }
+}

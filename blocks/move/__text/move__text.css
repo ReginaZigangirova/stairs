@@ -1,0 +1,17 @@
+.move__text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 0;
+    color: #E9F1FF;
+    max-width: 247px;
+}
+
+@media screen and (max-width: 710px) {
+    .move__text {
+        font-size: 16px;
+        line-height: 22px;
+        max-width: 152px;
+    }
+}

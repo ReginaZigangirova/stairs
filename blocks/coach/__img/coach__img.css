@@ -1,0 +1,11 @@
+.coach__img {
+    width: 145px;
+    height: 145px;
+    margin-right: 86px;
+}
+
+@media screen and (max-width: 900px) {
+    .coach__img {
+        margin: 0;
+    }
+}

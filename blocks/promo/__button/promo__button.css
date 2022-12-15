@@ -1,0 +1,19 @@
+.promo__button {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    margin: 86px 0 0;
+    text-transform: uppercase;
+    color: #010F29;
+    padding: 15px 51px 14px;
+    background: linear-gradient(143.05deg, #FCA82D 20.13%, #EFC449 85.02%);
+    border-radius: 30.5px;
+    border: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 710px) {
+    .promo__button {
+        display: none;
+    }
+}

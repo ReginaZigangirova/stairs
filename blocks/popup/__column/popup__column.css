@@ -1,0 +1,11 @@
+.popup__column {
+    display: block;
+    margin-top: 183px;
+    text-align: left;
+}
+
+@media screen and (max-width: 500px) {
+    .popup__column {
+        margin-top: 150px;
+    }
+}

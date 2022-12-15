@@ -1,0 +1,16 @@
+.footer__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 50px;
+    text-transform: uppercase;
+    margin: 0;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 710px) {
+    .footer__title {
+        font-size: 40px;
+        line-height: 36px;
+    }
+}

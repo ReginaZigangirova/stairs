@@ -1,0 +1,16 @@
+.creative__img {
+    margin-top: 1005px;
+    margin-left: 390px;
+}
+
+@media screen and (max-width: 1360px) {
+    .creative__img {
+        margin-top: 1030px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .creative__img {
+        display: none;
+    }
+}
